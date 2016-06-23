@@ -1,11 +1,3 @@
-//
-//  SharePreference.swift
-//  BerryKitchen
-//
-//  Created by GITS on 5/11/16.
-//  Copyright © 2016 GITS. All rights reserved.
-//
-
 import Foundation
 
 class PrefConstant {

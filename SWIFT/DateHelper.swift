@@ -1,11 +1,3 @@
-//
-//  HelperDate.swift
-//  BerryKitchen
-//
-//  Created by GITS on 6/15/16.
-//  Copyright © 2016 GITS. All rights reserved.
-//
-
 import Foundation
 
 extension String {
